@@ -55,4 +55,4 @@ $$t = 1.1 \cdot R_1 \cdot C_1$$
 
 ## Demonstration
 
-Add Youtube Link here
+[Demonstraition Video](https://youtu.be/AumoF_CtVfU?si=h7_GxB-YRJ_nF-hP)
